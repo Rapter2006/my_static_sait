@@ -50,14 +50,4 @@ body {
     float:right;
 }
 
-a.facebook:link, a.facebook:active, a.facebook:visited {
-    background-image:url(../img/facebookpb.png);
-    width:30px;
-    height:30px;
-}
 
-a.facebook:hover {
-    background-image:url(../img/facebook.png);
-    width:30px;
-    height:30px;
-}
