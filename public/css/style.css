@@ -61,3 +61,10 @@ a.facebook:hover {
     width:30px;
     height:30px;
 }
+
+
+a.blogger:hover {
+    background-image:url(../img/blogger.png);
+    width:30px;
+    height:30px;
+}
